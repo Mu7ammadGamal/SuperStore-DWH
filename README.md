@@ -280,7 +280,7 @@ Using pentaho to create a simple ETL Job
 <a name="res"></a>
 ### Result
 
-Using Power BI to create simple report/dashboard ansering buisness questions of:
+Using Power BI to create simple report/dashboard answering buisness questions of:
 - Which Category is Best Selling and Most Profitable?
 - What are the Best Selling and Most Profitable Sub-Category?
 - Which Customer Segment is Most Profitable?
