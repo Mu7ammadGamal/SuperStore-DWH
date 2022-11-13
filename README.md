@@ -288,4 +288,5 @@ Using Power BI to create simple report/dashboard answering buisness questions of
 - Which Region is the Most Profitable?
 - Which City has the Highest Number of Sales?
 
-![Report](https://user-images.githubusercontent.com/47898196/201500617-6ebd881b-1d06-495e-be61-399c482b3212.png)
+![Report](https://user-images.githubusercontent.com/47898196/201500750-24184422-13d9-4cff-8306-45824d2e37c1.png)
+
