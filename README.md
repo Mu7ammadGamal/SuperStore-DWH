@@ -280,6 +280,8 @@ Using pentaho to create a simple ETL Job
 <a name="res"></a>
 ### Result
 
+![Fact_Sales](https://user-images.githubusercontent.com/47898196/201501030-238d36b9-d681-49f5-8f9e-602b29fbc193.png)
+
 Using Power BI to create simple report/dashboard answering buisness questions of:
 - Which Category is Best Selling and Most Profitable?
 - What are the Best Selling and Most Profitable Sub-Category?
